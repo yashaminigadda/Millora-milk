@@ -1,0 +1,6 @@
+{
+  "name": "Milora Milk - Premium Fresh Milk Delivery",
+  "description": "Milora Milk provides fresh, safe, and hygienically packed milk delivered directly to your doorstep with simple WhatsApp ordering and monthly subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
